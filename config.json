@@ -1,0 +1,6 @@
+{
+  "keywords": ["Frontend", "Fullstack", "Junior"],
+  "technologies": ["React", "TypeScript", "Node.js"],
+  "workMode": "Remote",
+  "excludeKeywords": ["Senior", "Lead"]
+}
