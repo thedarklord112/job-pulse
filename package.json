@@ -1,0 +1,21 @@
+{
+  "name": "job-pulse",
+  "version": "1.0.0",
+  "description": "An automated tech job tracker using GitHub Actions and Discord webhooks.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no tests specified\" && exit 0"
+  },
+  "keywords": [
+    "automation",
+    "job-tracker",
+    "github-actions",
+    "discord-webhook",
+    "nodejs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0"
+  }
