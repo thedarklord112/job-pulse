@@ -97,4 +97,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-(sorry for the long README, take some robux lol)  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/cdf85f8b-18b6-47f2-b6d4-8a05ed82b94d" />
+(sorry for the long README, here's an mrbeast chocolate lol)  <img width="376" height="169" alt="image" src="https://github.com/user-attachments/assets/965bf1a1-085c-4fb4-bbb5-0b4656586212" />
+
+
