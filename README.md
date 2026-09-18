@@ -97,6 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-(sorry for the long README, here's an mrbeast chocolate lol)  <img width="376" height="169" alt="image" src="https://github.com/user-attachments/assets/965bf1a1-085c-4fb4-bbb5-0b4656586212" />
+(sorry for the long README, here's an mrbeast chocolate lol)  
+<img width="376" height="169" alt="image" src="https://github.com/user-attachments/assets/965bf1a1-085c-4fb4-bbb5-0b4656586212" />
 
 
